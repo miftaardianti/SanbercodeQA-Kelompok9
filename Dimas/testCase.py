@@ -17,11 +17,11 @@ class TestLogin(unittest.TestCase):
         # variable data
         self.url = "https://www.demoblaze.com/"
     
-    ##def tearDown(self):
+    #def tearDown(self):
      ## self.browser.quit()
 
         #TC_001 Validasi Contact Popup Form
-    ##def test_success_open_popup_form(self):
+    def test_success_open_popup_form(self):
         # steps
         driver = self.browser
         driver.maximize_window()
@@ -49,9 +49,16 @@ class TestLogin(unittest.TestCase):
         ##driver.find_element(By.XPATH, elem.btnSend).click()
         driver.find_element(
         By.CSS_SELECTOR, "#exampleModal > div > div > div.modal-footer > button.btn.btn-primary").click()
-        expected_message = "Thanks for the messages"
-        actual_message = driver.switchTo_alert.getText()
-        self.assertEqual(expected_message,actual_message)
+        expectedAlertMessage = "Thanks for the message!!"
+        ##time.sleep(10)
+        ##Captured Alert Text (Actual Text)
+        actualAlertMessage = driver.switch_to.alert.text()
+        ##Assertion
+        self.assertEquals(expectedAlertMessage, actualAlertMessage)
+        ##Accept the alert (Click OK)
+        driver.switch_to.alert.accept()
+
+
         # try:
         #   response_data = WebDriverWait(driver, 3).until(EC.alert_is_present())
         #   response_text = response_data.text
@@ -62,7 +69,7 @@ class TestLogin(unittest.TestCase):
         #     pytest.fail("Failed")
 
         #TC_003 Test_Send_message_without_proper_email
-    ##def test_verify_submit_contact_valid_format(self):
+    def test_verify_submit_contact_valid_format(self):
         # steps
         driver = self.browser
         driver.maximize_window()
@@ -88,7 +95,7 @@ class TestLogin(unittest.TestCase):
             pytest.fail("Failed")
 
             #TC_004 Test_Send_message_without_email
-    ##def test_verify_submit_contact_valid_format(self):
+    def test_verify_submit_contact_valid_format(self):
         # steps
         driver = self.browser
         driver.maximize_window()
@@ -113,7 +120,7 @@ class TestLogin(unittest.TestCase):
         except:
             pytest.fail("Failed")
 
-    ##def test_verify_submit_contact_With_empty_form(self):
+    def test_verify_submit_contact_With_empty_form(self):
         # steps
         driver = self.browser
         driver.maximize_window()
@@ -132,11 +139,11 @@ class TestLogin(unittest.TestCase):
         try:
           response_data = WebDriverWait(driver, 10).until(EC.alert_is_present())
           response_text = response_data.text
-          driver.switch_to.alert.accept()
+          driver.switchTo_alert.getText.accept()
           assert response_text == "Cant Send Message With Empty Form !!"
 
         except:
             pytest.fail("Failed")
 
-##if __name__ == "__main__":
-    ## unittest.main()
+if __name__ == "__main__":
+     unittest.main()
