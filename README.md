@@ -23,22 +23,22 @@ Browser For Testing : <br>
 Job Desk Team :
 
 1. Putu Radhita Chintia Wardhani <br>
-   Test Case : 
-   Pengujian : 
-   Capture Result & Video Automation : 
+   Test Case : <br>
+   Pengujian : <br>
+   Capture Result & Video Automation : <br>
 
 2. Angga Kurniawan <br>
-   Test Case : 
-   Pengujian : 
-   Capture Result & Video Automation : 
+   Test Case : <br>
+   Pengujian : <br>
+   Capture Result & Video Automation : <br>
 
 3. Mifta Ardianti <br>
-   Test Case : 
-   Pengujian : 
-   Capture Result & Video Automation : 
+   Test Case : <br>
+   Pengujian : <br>
+   Capture Result & Video Automation : <br>
 
 4. Dimas Argi Mairinaldy <br>
-   Test Case : 
-   Pengujian : 
-   Capture Result & Video Automation : 
+   Test Case : <br>
+   Pengujian : <br>
+   Capture Result & Video Automation : <br>
 
