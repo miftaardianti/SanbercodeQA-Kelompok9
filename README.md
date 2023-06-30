@@ -9,9 +9,9 @@
 
 URL to Test: 
 
-Test Case : 
+Test Case : https://docs.google.com/spreadsheets/d/17Tl9_05oPXZFwuwrq9I83MlF4Kx8rZy1FULqXP7yqRo/edit#gid=1444349854
 
-Test Plan Document : 
+Test Plan Document : https://docs.google.com/document/d/1KXqlDb9Oewp-8DkvBUjHHJJJWe7c2jCuNxZEC60swZI/edit?usp=sharing
 Automation Used:<br>
 *Selenium<br>
 *Phyton<br>
@@ -38,7 +38,7 @@ Job Desk Team :
    Capture Result & Video Automation : <br>
 
 4. Dimas Argi Mairinaldy <br>
-   Test Case : <br>
-   Pengujian : <br>
-   Capture Result & Video Automation : <br>
+   Test Case : Contact Menu<br>
+   Pengujian : Manual & Automation Testing<br>
+   Capture Result & Video Automation : https://drive.google.com/file/d/1lMZziY6ouljCSQrWDxwjJZGe4TCrwq93/view?usp=sharing <br>
 
