@@ -1,7 +1,7 @@
 # SanbercodeQA-Kelompok9
 
  Nama Anggota Kelompok :
- 1. Putu Radhita Chintia Wardhani <br>
+ 1. Putu Raditha Chintia Wardhani <br>
  2. Angga Kurniawan <br>
  3. Mifta Ardianti <br>
  4. Dimas Argi Mairinaldy<br>
@@ -22,7 +22,7 @@ Browser For Testing : <br>
 
 Job Desk Team :
 
-1. Putu Radhita Chintia Wardhani <br>
+1. Putu Raditha Chintia Wardhani <br>
    Test Case : <br>
    Pengujian : <br>
    Capture Result & Video Automation : <br>
