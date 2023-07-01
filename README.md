@@ -12,9 +12,9 @@ URL to Test:
 Test Case : https://docs.google.com/spreadsheets/d/17Tl9_05oPXZFwuwrq9I83MlF4Kx8rZy1FULqXP7yqRo/edit#gid=1444349854
 
 Test Plan Document : https://docs.google.com/document/d/1KXqlDb9Oewp-8DkvBUjHHJJJWe7c2jCuNxZEC60swZI/edit?usp=sharing
-Automation Used:<br>
+<br>Automation Used:<br>
 *Selenium<br>
-*Phyton<br>
+*Python<br>
 
 Browser For Testing : <br>
 
@@ -23,9 +23,9 @@ Browser For Testing : <br>
 Job Desk Team :
 
 1. Putu Raditha Chintia Wardhani <br>
-   Test Case : <br>
-   Pengujian : <br>
-   Capture Result & Video Automation : <br>
+   Test Case : Sign Up, Log In & Log Out<br>
+   Pengujian : Manual & Automation Testing<br>
+   Capture Result & Video Automation : https://drive.google.com/drive/folders/16uUATotXsrktlOqxNU8LRZJvg1dAd62U?usp=sharing <br>
 
 2. Angga Kurniawan <br>
    Test Case : <br>
