@@ -28,9 +28,9 @@ Job Desk Team :
    Capture Result & Video Automation : https://drive.google.com/drive/folders/16uUATotXsrktlOqxNU8LRZJvg1dAd62U?usp=sharing <br>
 
 2. Angga Kurniawan <br>
-   Test Case : <br>
-   Pengujian : <br>
-   Capture Result & Video Automation : <br>
+   Test Case : Add to Cart, Cart Page<br>
+   Pengujian : Manual & Automation Testing<br>
+   Capture Result & Video Automation : https://drive.google.com/file/d/1bwu_lyqIZgYkep_4QJW0zRGh49lEr82V/view?usp=sharing<br>
 
 3. Mifta Ardianti <br>
    Test Case : <br>
