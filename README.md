@@ -33,9 +33,9 @@ Job Desk Team :
    Capture Result & Video Automation : https://drive.google.com/file/d/1bwu_lyqIZgYkep_4QJW0zRGh49lEr82V/view?usp=sharing<br>
 
 3. Mifta Ardianti <br>
-   Test Case : <br>
-   Pengujian : <br>
-   Capture Result & Video Automation : <br>
+   Test Case : Place order<br>
+   Pengujian :  Manual & Automation Testing<br>
+   Capture Result & Video Automation : https://drive.google.com/drive/folders/1pRWKvx-Aqek1tFahD8q8_qjZei_JvPh7?usp=sharing<br>
 
 4. Dimas Argi Mairinaldy <br>
    Test Case : Contact Menu<br>
